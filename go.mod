@@ -1,4 +1,4 @@
-module github.com/BedirMirac/pwgen
+module github.com/bedirmirac/pwgen
 
 go 1.25.6
 
